@@ -1,0 +1,3 @@
+TODO:
+-Update this repo to current head of assimp
+-Adjust Premake5 script to accomodate
